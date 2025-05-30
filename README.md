@@ -1,5 +1,5 @@
 # simplexPL-visual-solver
-##In Development
+-**In Development**-
 Visual solver for Linear Programming problems using the Simplex method, built with C++ and Qt.
 
 This project implements a **visual solver for Linear Programming problems** using the **Revised Simplex Method**, featuring a graphical interface built with **C++ and Qt Widgets**.
